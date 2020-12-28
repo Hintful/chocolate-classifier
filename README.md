@@ -3,15 +3,21 @@ Simple chocolate classifier that is able to classify given image of a chocolate 
 
 * Aero
 * Coffee Crisp
+* Ferrero Rocher
+* Ghirardelli
 * Hershey's
-* Kit Kat
 * Kinder
-* Mars bar
+* Kit Kat
+* Lindor
 * Reese's
 * Snickers
-* Skor
 * Toblerone
 * Twix
 
+
+
 Model `export.pkl` has been created via fine tuning on a pretrained model on ImageNet on around 100-300 images of each chocolate kinds.
 The model has shown around 95% accuracy on various validation sets.
+
+Check how the application was made in my blog [post](https://hintful.github.io/posts/chocolate-classifier.html)!
+
