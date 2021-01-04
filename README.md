@@ -19,5 +19,5 @@ Simple chocolate classifier that is able to classify given image of a chocolate 
 Model `export.pkl` has been created via fine tuning on a pretrained model on ImageNet on around 100-300 images of each chocolate kinds.
 The model has shown around 95% accuracy on various validation sets.
 
-Check how the application was made in my blog [post](https://hintful.github.io/posts/chocolate-classifier.html)!
+Check how the application was made in my blog [post](https://hintful.github.io/posts/chocolate-classifier/)!
 
